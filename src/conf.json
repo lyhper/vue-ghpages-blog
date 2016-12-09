@@ -1,7 +1,7 @@
 {
   "blogTitle": "lyhper blog",
-  "repo": "lyhper/lyhper.github.io",
-  "path": "_posts",
+  "repo": "lyhper/blog-markdown",
+  "path": "posts",
   "branch": null,
   "favicon": null
 }
