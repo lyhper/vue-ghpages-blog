@@ -26,6 +26,7 @@ script:
 
 after_script:
   - cd dist
+  - echo "lyhper.com" > CNAME
   - cp index.html 404.html
   - git add --all .
   - git commit --message "Automatically update from travis-ci"
